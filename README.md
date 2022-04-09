@@ -2,6 +2,7 @@
 
 example:
 
+
 e for ascii code: 101
 
 e for binary: 01100101
